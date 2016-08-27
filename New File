@@ -1,4 +1,3 @@
-# CS281-Assignment-5
 Hongtao Hua
 Assignment 5
 1.vagrant@Xubuntu-Vagrant:~/CS3281/scheduling-simulator$ python process-run.py -l 5:100,5:100 -c -p
